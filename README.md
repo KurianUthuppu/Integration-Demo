@@ -11,4 +11,22 @@ _A demo project on data visualization using Google's Big-Query, Data-Studio and 
 ### Resources
 * GCP platform login - https://cloud.google.com/?authuser=1
 * Google data-studio login - https://datastudio.google.com/
-* 
+
+### Demo project
+- Ref. architecture design image for a snap-shot on the overall approach adopted
+- Connect IoT data or data from other servers or schedule data uploads to Big-Query
+- Schedule queries on the requisite datatables
+- Create data-studio dashboards using 'Export with data-studio' option from Big-Query or Big-Query connector in data-studio
+- Click embed report in the share button and copy the embed code
+- Create a google site for the dashboards using any ready-made template available in google sites
+- Designing a web-page or customizing a ready-made template in google site is easy
+  - You can insert text, image, shapes, vidoes in the google site easily using the provided options
+- Click embed button on the right hand side and paste the earlier copied code from Data-Studio
+  - The data-studio dashboard would be loaded in the google site
+  - Click the pencil button on the top left corner of the embedded dashboard and make width, height as 100%
+    -> This will adjust the dashboard size to the size of the browser window
+  - You may further drag the embedded dashboard selection to make it view easily completely in one page without sidebars
+- Publish the google site using the publish button on the top-right corner
+- Give 'Published Viewer' option to requisite personnel using 'share with others' option
+  - In this way, all the dashboards of a particular project can be embedded in a single google site and made available to all requisite personnel
+  - Authorized personnel could view the dashboards using desktop/mobile devices and extract data with the selected inputs/date-ranges as well 
