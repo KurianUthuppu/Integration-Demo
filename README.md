@@ -13,7 +13,7 @@ _A demo project on data visualization using Google's Big-Query, Data-Studio and 
 * Google data-studio login - https://datastudio.google.com/
 
 ### Demo project
-- Ref. architecture design image for a snap-shot on the overall approach adopted
+- Below is the overall architecture design adopted for this project
 ![alt text](https://github.com/KurianUthuppu/Integration-Demo/blob/a9e4ecb0c1d5d2caa7690578dcb5d0b615e88dbf/Design_Architecture.jpg)
 - Connect IoT data or data from other servers or schedule data uploads to Big-Query
 - Schedule queries on the requisite datatables
