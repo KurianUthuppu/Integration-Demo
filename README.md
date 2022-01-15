@@ -31,3 +31,5 @@ _A demo project on data visualization using Google's Big-Query, Data-Studio and 
 - Give 'Published Viewer' option to requisite personnel using 'share with others' option
   - In this way, all the dashboards of a particular project can be embedded in a single google site and made available to all requisite personnel
   - Authorized personnel could view the dashboards using desktop/mobile devices and extract data with the selected inputs/date-ranges as well 
+- You may go one step further and enable google chat-bot to help authorized users to access requisite data in the Big-Query
+  - Detailed steps to the same is given here -> https://github.com/KurianUthuppu/Google_Chatbot.git
